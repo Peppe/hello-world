@@ -11,7 +11,7 @@ Simple Vaadin Hello World application. This project demonstrates:
 
 Make sure you have installed [Maven](http://maven.apache.org/) and [Git](http://git-scm.com/).
 
-    git clone https://github.com/vaadin-samples/hello-world.git
+    git clone https://github.com/Peppe-/hello-world.git
     cd hello-world
     mvn jetty:run
     
